@@ -1,4 +1,4 @@
-# cefet-web-weblot
+# O Reino de Weblot :crown:
 
 Um conjunto de códigos ilustrativos de APIs do HTML5.
 
