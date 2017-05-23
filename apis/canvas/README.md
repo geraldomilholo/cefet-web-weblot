@@ -1,8 +1,12 @@
 # Canvas API
 
-Exemplo de uso da API de Canvas do HTML5.
+Exemplo de uso da API de Canvas do HTML5. 
 
 ![](images/screenshot.png)
+
+# Link de Exemplo
+
+1. https://geraldomilholo.github.io/cefet-web-weblot/apis/canvas/
 
 # Créditos
 
