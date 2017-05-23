@@ -57,10 +57,10 @@ function draw() {
   img.onload = function() {
     ctx.drawImage(img, 60, 0);
     ctx.beginPath();
-    ctx.moveTo(30, 96);
-    ctx.lineTo(70, 66);
-    ctx.lineTo(103, 76);
-    ctx.lineTo(170, 15);
+    ctx.moveTo(90, 96);
+    ctx.lineTo(130, 66);
+    ctx.lineTo(163, 76);
+    ctx.lineTo(230, 15);
     ctx.stroke();
   };
   
