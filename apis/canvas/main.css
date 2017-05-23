@@ -4,16 +4,11 @@ body {
   background-image: url(./images/space.png);
 }
 
-header > h1 {
+h1, h3 {
 	color: yellow;
 	text-align: center;
 }
 
-header > h3 {
-	color: yellow;
-	text-align: center;
-}
-
-#container {
+.container {
 	text-align: center;	
 }
